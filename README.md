@@ -6,3 +6,10 @@ This Script Needed Data Address List On Text File . Can Download [This Page](htt
 
 ![](https://raw.githubusercontent.com/Pymmdrza/BitcoinXPowerHunter/mainx/xpower.JPG)
 
+First Inastall Package's With This Common :
+
+```
+pip install rich
+pip install hdwallet
+```
+Needed [Hexer](https://github.com/Pymmdrza/HEXER) Download File `hexer.py` [here](https://github.com/Pymmdrza/HEXER/blob/main/mHash/hexer.py)
