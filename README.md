@@ -1,5 +1,7 @@
 ![Bitcoin x Power Crack Private Key](https://raw.githubusercontent.com/Pymmdrza/BitcoinXPowerHunter/mainx/BTCXPowerCover.jpg 'Bitcoin x Power Crack Private Key')
 
+![](https://raw.githubusercontent.com/Pymmdrza/BitcoinXPowerHunter/mainx/xs1.png)
+
 # Bitcoin X Power Hunter
 
 Video of Hunting With This Script `Bitcoin_X_PRO.py` (Pro Version) Follow this [Link](https://github.com/Pymmdrza/BitcoinXPowerHunter/blob/mainx/Bitcoin_x_PRO.mp4)
