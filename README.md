@@ -4,6 +4,12 @@
 
 Video of Hunting With This Script `Bitcoin_X_PRO.py` (Pro Version) Follow this [Link](https://github.com/Pymmdrza/BitcoinXPowerHunter/blob/mainx/Bitcoin_x_PRO.mp4)
 
+
+Screen Recorded From Bitcoin X PRO (PRO VERSION) Find and Matching Details from Database Loaded :
+
+![Bitcoin X Pro Wallet Crack Hunting](https://raw.githubusercontent.com/Pymmdrza/BitcoinXPowerHunter/mainx/btc_X_pro.gif 'Bitcoin X Pro Wallet Crack Hunting')
+
+
 Bitcoin All Address Type Hunting With High speed checked DataBase
 
 This Script Needed Data Address List On Text File . Can Download [This Page](https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/Bitcoin 'Rich Wallet Address Bitcoin')
